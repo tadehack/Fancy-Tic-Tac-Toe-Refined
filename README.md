@@ -10,11 +10,11 @@ Alpha 1.0, the first playable version of the game, was developed in only a few h
 - Option to play against an AI with at least 2 difficulty levels.  
 - Other game modes (at least one more).  
 - Game sounds with an option to adjust volume.  
-- Option to switch between 'fullscreen windowed' and 'windowed' mode.  
+- Option to switch between 'fullscreen windowed' and 'windowed' mode (alternatively, you can press ALT + Enter to switch between the modes).  
 - Option to switch between 'default' and 'dark' mode colors.  
-- Allow users to upload their own background image.
+- Allow users to upload their own background image.  
 - Allow users to play with keyboard only (or controller (maybe)).  
-- MAYBE add a mode to play online with someone via Hamachi / Radmin / Port Forwarding (I guess you could use something like 'Parsec' to play online for now).  
+- MAYBE add a mode to play online with someone via Hamachi / Radmin / Port Forwarding (alternatively, you could use something like 'Parsec' to play online for now, I think).  
 
 ## Controls:  
 - Left Mouse Click (Mouse 1) - For Everything  
