@@ -1,0 +1,4 @@
+repository "Fancy Tic Tac Toe - Refined@tadehack_ctz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
